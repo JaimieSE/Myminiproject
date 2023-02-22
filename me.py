@@ -1,10 +1,6 @@
 from PIL import Image
 import streamlit as st
 import  requests 
-from streamlit_lottie import st_lottie
-
-
-
 
 #pictures added stuff
 image_sponge = Image.open(r"C:\Users\June\Desktop\Python\Images\spongebob.png")
